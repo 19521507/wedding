@@ -1,0 +1,7 @@
+.test{position:relative;
+    width:fit-content;
+    height: fit-content;
+    border: 5px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 5px;
+display: flex;}

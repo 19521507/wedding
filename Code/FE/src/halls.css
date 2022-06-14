@@ -1,0 +1,153 @@
+.image3 {
+    position: absolute;
+width: 1920px;
+height: 653px;
+left: 0px;
+top: 101px;
+background: url(hall1.png);
+background-size: cover;
+background-repeat: no-repeat;
+display: flex;}
+.line1 {
+    position: absolute;
+    width: 638px;
+    height: 0px;
+    left: 163px;
+    top: 834px;
+    
+    border: 1px solid #000000;}
+    .line2{position: absolute;
+        width: 638px;
+        height: 0px;
+        left: 1087px;
+        top: 834px;
+        
+        border: 1px solid #000000;}
+        .wdhall{position: absolute;
+            width: 200px;
+            height: 140px;
+            left: 880px;
+            top: 720px;
+            font-family: Almendra;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 64px;
+            line-height: 83px;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            text-transform: uppercase;
+            
+            color: rgba(248, 220, 121, 0.84);}
+            .inforhall{position: absolute;
+                width: 1933px;
+                height: 2500px;
+                left: 0px;
+                top: 910px;
+                
+                background: rgba(219, 219, 219, 0.42);
+                mix-blend-mode: darken;}
+                .hinhhall1{position: absolute;
+                    width: 765px;
+                    height: 510px;
+                    left: 0px;
+                    background: url(hall2.png);
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    display: flex;
+                }
+                #hallone{position: absolute;
+                    width: 790px;
+                    height: 505px;
+                    left: 1022px;                    
+                    font-family: Abel;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 36px;
+                    line-height: 46px;
+                    display: flex;
+                    align-items: center;
+                    text-align: center;
+                    text-transform: uppercase;
+                    
+                    color: #000000;}
+                    .hinhhall2{position: absolute;
+                        width: 765px;
+                        height: 510px;
+                        left: 1047px;
+                        top: 650px;
+                        background: url(hall3.png);
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    display: flex;
+                    }
+                    #halltwo{position: absolute;
+                        width: 783px;
+                        height: 555px;
+                        left: 0px;
+                        top: auto;
+                        padding-top: 30rem;
+                        
+                        font-family: Abel;
+                        font-style: normal;
+                        font-weight: normal;
+                        font-size: 36px;
+                        line-height: 46px;
+                        display: flex;
+                        align-items: center;
+                        text-align: center;
+                        text-transform: uppercase;
+                        
+                        color: #000000;}
+                        .hinhhall3{position: absolute;
+                            width: 765px;
+                            height: 515px;
+                            left: 0px;
+                            top:1200px;
+                            background: url(hall4.png);
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    display: flex;
+                        }
+                        #hallthree{position: absolute;
+                            width: 758px;
+                            height: 491px;
+                            left: 1054px;
+                            top:1210px;                            
+                            font-family: Abel;
+                            font-style: normal;
+                            font-weight: normal;
+                            font-size: 36px;
+                            line-height: 46px;
+                            display: flex;
+                            align-items: center;
+                            text-align: center;
+                            text-transform: uppercase;
+                            
+                            color: #000000;}
+                            .hinhhall4{position: absolute;
+                                width: 765px;
+                                height: 515px;
+                                left: 1047px;
+                                top:1800px;
+                                background: url(hall5.png);
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        display: flex;}
+                        #hallfour{position: absolute;
+                            width: 761px;
+                            height: 555px;
+                            left: 0px;
+                            top: 1800px;
+                            
+                            font-family: Abel;
+                            font-style: normal;
+                            font-weight: normal;
+                            font-size: 36px;
+                            line-height: 46px;
+                            display: flex;
+                            align-items: center;
+                            text-align: center;
+                            text-transform: uppercase;
+                            
+                            color: #000000;}
